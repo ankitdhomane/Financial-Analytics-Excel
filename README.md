@@ -20,7 +20,7 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 ### Project Objectives:
 1. Create Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/ankitdhomane/Financial-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/ankitdhomane/Financial-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf).
-2. Generate Profit and Loss (P&L) reports segmented by [Markets](https://github.com/Rajesh10001/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+2. Generate Profit and Loss (P&L) reports segmented by [Markets](https://github.com/ankitdhomane/Financial-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 ### Purpose of Finance Analytics:
 Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
