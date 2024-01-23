@@ -5,7 +5,7 @@
 
 ### Project Objectives:
 1. Generate a detailed [customer performance report](https://github.com/ankitdhomane/Financial-Analytics-Excel/blob/main/Customer%20Performance%20Report.pdf).
-2. Conduct an in-depth comparison between [market performance and sales targets](https://github.com/Rajesh10001/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
+2. Conduct an in-depth comparison between [market performance and sales targets](https://github.com/ankitdhomane/Financial-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 ### Purpose of Sales Analytics:
 Empower businesses to monitor and evaluate their sales activities and performance.
